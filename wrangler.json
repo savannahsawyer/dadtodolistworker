@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "dadtodolistworker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4b9641b8-4a94-4361-8191-6eaea2105378",
+			"database_name": "dadstodolistapp"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
